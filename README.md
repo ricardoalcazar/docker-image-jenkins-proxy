@@ -1,2 +1,2 @@
-# docker-image-jenkins-proxy
+# docker-proxy
 Docker image repository for Jenkins Proxy.
